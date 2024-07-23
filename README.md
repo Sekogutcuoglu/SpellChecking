@@ -15,7 +15,7 @@ Türkçe spellchecking için Zemberek Kullanılmıştır.
 Çalıştırmak için big.txt ile beraber aynı dosya klasörüne almanız gerekir.Diğerleri hazır Kütüphane olduğu için direkt çalıştırabilirsiniz.
 
 
-**********************************************************ENGLISH************************************************************
+**********************************************************ENGLISH**********************************************************
 
 
 Peter Norvig, inspired by conversations with two engineer friends who were amazed by Google's ability to correct misspelled search queries, decided to write a simple spell checker. Despite the complexity behind Google's technology, Norvig aimed to demonstrate that a basic yet functional spell checker could be developed relatively easily.
